@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/bin/Debug/net6.0/GitandLoop
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/bin/Debug/net6.0/GitandLoop.deps.json
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/bin/Debug/net6.0/GitandLoop.runtimeconfig.json
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/bin/Debug/net6.0/GitandLoop.dll
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/bin/Debug/net6.0/GitandLoop.pdb
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.csproj.AssemblyReference.cache
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.AssemblyInfoInputs.cache
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.AssemblyInfo.cs
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.csproj.CoreCompileInputs.cache
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.dll
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/refint/GitandLoop.dll
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.pdb
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.genruntimeconfig.cache
+/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/Debug/net6.0/ref/GitandLoop.dll
+=======
 /Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/bin/Debug/net6.0/GitandLoop
 /Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/bin/Debug/net6.0/GitandLoop.deps.json
 /Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/bin/Debug/net6.0/GitandLoop.runtimeconfig.json
@@ -13,3 +30,4 @@
 /Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.pdb
 /Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/obj/Debug/net6.0/GitandLoop.genruntimeconfig.cache
 /Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/obj/Debug/net6.0/ref/GitandLoop.dll
+>>>>>>> main
