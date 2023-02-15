@@ -9,5 +9,5 @@ AnimalsList.Add("Turtle","Reptile");
 AnimalsList.Add("Shark","Fish");
 
 foreach(var entry in AnimalsList) {
-    Console.WriteLine($"{entry.Key} is a{entry.Value}");
+    Console.WriteLine($"{entry.Key} is a {entry.Value}");
 }

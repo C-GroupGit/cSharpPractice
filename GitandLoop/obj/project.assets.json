@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/briannachatman-hicks/.nuget/packages/": {}
+    "/Users/lizettevillatoro/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/GitandLoop.csproj",
+      "projectUniqueName": "/Users/lizettevillatoro/cSharpPractice/GitandLoop/GitandLoop.csproj",
       "projectName": "GitandLoop",
-      "projectPath": "/Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/GitandLoop.csproj",
-      "packagesPath": "/Users/briannachatman-hicks/.nuget/packages/",
-      "outputPath": "/Users/briannachatman-hicks/Desktop/Documents/CodingDojo/cSharpPractice/GitandLoop/obj/",
+      "projectPath": "/Users/lizettevillatoro/cSharpPractice/GitandLoop/GitandLoop.csproj",
+      "packagesPath": "/Users/lizettevillatoro/.nuget/packages/",
+      "outputPath": "/Users/lizettevillatoro/cSharpPractice/GitandLoop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/briannachatman-hicks/.nuget/NuGet/NuGet.Config"
+        "/Users/lizettevillatoro/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
