@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Liannys- String Array and Loop
+string[] names = new string[]{"Lizette", "Brianna", "Liannys"};
+foreach(string name in names){
+    Console.WriteLine(name);
+}
